@@ -2,3 +2,16 @@ h1 {
     background-color: wheat;
     color: orangered;
 }
+
+li {
+    list-style-type: square;
+    font-size: 1.2rem;
+}
+
+nav ul {
+    display: flex;
+}
+
+nav ul li {
+    flex-grow: 1;
+}
