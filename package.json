@@ -1,0 +1,23 @@
+{
+  "name": "nginx_test_project",
+  "version": "1.0.0",
+  "description": "\"Testing my node.js skills right now\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manuel-Smith/nginx-setup.git"
+  },
+  "keywords": [
+    "[\"Node.js\"",
+    "\"Tutorial\"]"
+  ],
+  "author": "\"Manuel Smith\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manuel-Smith/nginx-setup/issues"
+  },
+  "homepage": "https://github.com/Manuel-Smith/nginx-setup#readme"
+}
