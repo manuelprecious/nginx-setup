@@ -2,7 +2,7 @@
   "name": "nginx_test_project",
   "version": "1.0.0",
   "description": "\"Testing my node.js skills right now\"",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -11,13 +11,19 @@
     "url": "git+https://github.com/Manuel-Smith/nginx-setup.git"
   },
   "keywords": [
-    "[\"Node.js\"",
-    "\"Tutorial\"]"
+    "Node.js",
+    "Tutorial"
   ],
-  "author": "\"Manuel Smith\"",
+  "author": "Manuel Smith",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Manuel-Smith/nginx-setup/issues"
   },
-  "homepage": "https://github.com/Manuel-Smith/nginx-setup#readme"
+  "homepage": "https://github.com/Manuel-Smith/nginx-setup#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "moment": "^2.29.4"
+  }
 }
